@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package pbimport;
+
+message S3Data {
+  string object = 1;
+  string bucket = 2;
+}

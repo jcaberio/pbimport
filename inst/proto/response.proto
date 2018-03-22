@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package pbimport;
+
+import "generic.proto";
+
+message Rsponse {
+  S3Data data = 1;
+}

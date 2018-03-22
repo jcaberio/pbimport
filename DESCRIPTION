@@ -1,0 +1,13 @@
+Package: pbimport
+Version: 0.1
+Date: 2018-03-18
+Title: Testing Imports In Protocol Buffer
+Description: Testing import statements in protocol buffers
+Author: Jorick Caberio <jorick.caberio@voyagerinnovation.com>
+Maintainer: Jorick Caberio <jorick.caberio@voyagerinnovation.com>
+RoxygenNote: 6.0.1
+License: MIT + file LICENSE
+Depends:
+    R (>= 3.4.0)
+Imports:
+    RProtoBuf
